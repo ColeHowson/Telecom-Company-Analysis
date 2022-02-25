@@ -1,4 +1,8 @@
-# Telecom-Company-Analysis (Python/Tableau)
+# Telecom-Company-Analysis 
+
+![download](https://user-images.githubusercontent.com/59493321/155767024-e94cfd7f-9f0f-43f7-ab9b-8447574ef4b0.png)
+
+
 
 This notebook will be a walk-through of an exploratory analysis of the customers for a telecom company. The company is interested in developing a classification model that can predict whether or not a customer will churn. In addition to this model, they are looking for additional insights into how they can optimize their business, to best serve their customers.
 
